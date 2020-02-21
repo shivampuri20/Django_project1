@@ -1,5 +1,4 @@
 asgiref==3.2.3
-atboto3==1.9.96
 botocore==1.12.96
 certifi==2018.10.15
 chardet==3.0.4
